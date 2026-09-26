@@ -1,0 +1,802 @@
+{
+  "Resort": {
+    "desc": "{name} is a premier destination located in {location}. Offering world-class amenities and stunning panoramic views, it serves as a perfect getaway for both adventure seekers and those looking to relax in nature.\n\nVisitors can enjoy various seasonal activities, guided tours, and comfortable lodging. The area is renowned for its vibrant atmosphere and excellent hospitality, making it a must-visit spot in the region.",
+    "info": [
+      {
+        "label": "Open",
+        "value": "8:00 AM to 10:00 PM",
+        "icon": "Sun"
+      },
+      {
+        "label": "Entry Fee",
+        "value": "Varies by activity",
+        "icon": "Ticket"
+      },
+      {
+        "label": "Elevation",
+        "value": "High altitude",
+        "icon": "Mountain"
+      },
+      {
+        "label": "Access",
+        "value": "Paved road",
+        "icon": "CarFront"
+      }
+    ],
+    "facilities": [
+      "Parking available",
+      "Restaurants on site",
+      "Guided tours",
+      "Equipment rental",
+      "Restrooms"
+    ],
+    "warnings": [
+      "Advance booking recommended in peak season",
+      "Weather can change rapidly"
+    ],
+    "plan": [
+      {
+        "label": "Best Time",
+        "value": "Year-round",
+        "icon": "CheckCircle2"
+      },
+      {
+        "label": "Drive",
+        "value": "Easily accessible by car",
+        "icon": "Car"
+      },
+      {
+        "label": "Weather",
+        "value": "Check local forecasts",
+        "icon": "TriangleAlert"
+      },
+      {
+        "label": "Cash",
+        "value": "Cards widely accepted",
+        "icon": "Banknote"
+      }
+    ]
+  },
+  "Park": {
+    "desc": "{name} is a beautiful recreational area situated in {location}. Surrounded by lush greenery and vibrant flora, it provides a peaceful escape from the bustling city life.\n\nFamilies and nature lovers frequent the park for picnics, leisurely walks, and photography. Well-maintained walking tracks and dedicated sitting areas make it an ideal spot for relaxation and outdoor enjoyment.",
+    "info": [
+      {
+        "label": "Open",
+        "value": "Sunrise to Sunset",
+        "icon": "Sun"
+      },
+      {
+        "label": "Entry Fee",
+        "value": "Free / Nominal",
+        "icon": "Ticket"
+      },
+      {
+        "label": "Size",
+        "value": "Expansive",
+        "icon": "Trees"
+      },
+      {
+        "label": "Access",
+        "value": "Public transport / Car",
+        "icon": "CarFront"
+      }
+    ],
+    "facilities": [
+      "Walking trails",
+      "Picnic spots",
+      "Playground",
+      "Benches",
+      "Restrooms"
+    ],
+    "warnings": [
+      "Littering strictly prohibited",
+      "Keep off restricted green belts"
+    ],
+    "plan": [
+      {
+        "label": "Best Time",
+        "value": "Spring and Autumn",
+        "icon": "CheckCircle2"
+      },
+      {
+        "label": "Transport",
+        "value": "Local transit available",
+        "icon": "Car"
+      },
+      {
+        "label": "Weather",
+        "value": "Pleasant during day",
+        "icon": "TriangleAlert"
+      },
+      {
+        "label": "Cash",
+        "value": "Carry small change",
+        "icon": "Banknote"
+      }
+    ]
+  },
+  "Valley": {
+    "desc": "Nestled in {location}, {name} is renowned for its spectacular landscapes and serene environment. The valley is characterized by steep mountains, flowing streams, and rich biodiversity.\n\nTravelers are drawn to its untouched natural beauty and traditional village life. Trekking along the valley floor reveals hidden waterfalls and unique flora, offering a deeply immersive nature experience.",
+    "info": [
+      {
+        "label": "Open",
+        "value": "Always Open",
+        "icon": "Sun"
+      },
+      {
+        "label": "Entry Fee",
+        "value": "Free",
+        "icon": "Ticket"
+      },
+      {
+        "label": "Terrain",
+        "value": "Mountainous",
+        "icon": "Mountain"
+      },
+      {
+        "label": "Access",
+        "value": "Jeep / Hiking",
+        "icon": "CarFront"
+      }
+    ],
+    "facilities": [
+      "Viewpoints",
+      "Local food stalls",
+      "Camping spots",
+      "Trekking trails"
+    ],
+    "warnings": [
+      "Roads can be rugged",
+      "Limited mobile coverage"
+    ],
+    "plan": [
+      {
+        "label": "Best Time",
+        "value": "May to September",
+        "icon": "CheckCircle2"
+      },
+      {
+        "label": "Drive",
+        "value": "4x4 recommended",
+        "icon": "Car"
+      },
+      {
+        "label": "Weather",
+        "value": "Cool evenings",
+        "icon": "TriangleAlert"
+      },
+      {
+        "label": "Cash",
+        "value": "Cash only",
+        "icon": "Banknote"
+      }
+    ]
+  },
+  "Historical": {
+    "desc": "{name} stands as a magnificent testament to the rich history and architectural brilliance of {location}. Built centuries ago, it has witnessed the rise and fall of empires and remains a significant cultural landmark.\n\nExploring its corridors, courtyards, and ancient walls transports visitors back in time. Conservation efforts have preserved its intricate details, making it a fascinating destination for history buffs and tourists alike.",
+    "info": [
+      {
+        "label": "Open",
+        "value": "9:00 AM to 5:00 PM",
+        "icon": "Clock"
+      },
+      {
+        "label": "Entry Fee",
+        "value": "PKR 50 - 200",
+        "icon": "Ticket"
+      },
+      {
+        "label": "Era",
+        "value": "Ancient / Medieval",
+        "icon": "Star"
+      },
+      {
+        "label": "Access",
+        "value": "City roads",
+        "icon": "CarFront"
+      }
+    ],
+    "facilities": [
+      "Guided tours",
+      "Information plaques",
+      "Photography allowed",
+      "Souvenir shop"
+    ],
+    "warnings": [
+      "Do not touch historical artifacts",
+      "Photography may be restricted in some areas"
+    ],
+    "plan": [
+      {
+        "label": "Best Time",
+        "value": "Morning or late afternoon",
+        "icon": "CheckCircle2"
+      },
+      {
+        "label": "Transport",
+        "value": "Easily accessible",
+        "icon": "Car"
+      },
+      {
+        "label": "Dress",
+        "value": "Modest attire recommended",
+        "icon": "TriangleAlert"
+      },
+      {
+        "label": "Cash",
+        "value": "Ticket counter requires cash",
+        "icon": "Banknote"
+      }
+    ]
+  },
+  "Lake": {
+    "desc": "{name} is a breathtaking water body situated in {location}. Known for its crystal-clear turquoise waters, it reflects the surrounding snow-capped peaks in stunning clarity.\n\nThe lake is accessible via scenic tracks, passing through lush meadows and ancient forests. Local fishermen row traditional wooden boats across the lake, making it a popular destination for both relaxation and adventure.",
+    "info": [
+      {
+        "label": "Open",
+        "value": "Sunrise to Sunset",
+        "icon": "Sun"
+      },
+      {
+        "label": "Entry Fee",
+        "value": "Varies",
+        "icon": "Ticket"
+      },
+      {
+        "label": "Altitude",
+        "value": "High altitude",
+        "icon": "Mountain"
+      },
+      {
+        "label": "Access",
+        "value": "Jeep / Trek",
+        "icon": "CarFront"
+      }
+    ],
+    "facilities": [
+      "Boating available",
+      "Fishing permitted",
+      "Picnic area",
+      "Basic camping"
+    ],
+    "warnings": [
+      "No mobile network",
+      "Altitude awareness advised"
+    ],
+    "plan": [
+      {
+        "label": "Best Time",
+        "value": "Summer months",
+        "icon": "CheckCircle2"
+      },
+      {
+        "label": "Drive",
+        "value": "Jeep track",
+        "icon": "Car"
+      },
+      {
+        "label": "Weather",
+        "value": "Temperatures drop sharply",
+        "icon": "TriangleAlert"
+      },
+      {
+        "label": "Cash",
+        "value": "No ATMs — carry cash",
+        "icon": "Banknote"
+      }
+    ]
+  },
+  "Forest": {
+    "desc": "Located in {location}, {name} is a dense and ancient woodland offering a mystical retreat into nature. The towering trees and diverse wildlife create an enchanting atmosphere for visitors.\n\nHiking through the forest trails provides an opportunity to disconnect from the modern world. The soothing sounds of rustling leaves and distant bird calls make it a haven for nature enthusiasts and photographers.",
+    "info": [
+      {
+        "label": "Open",
+        "value": "Daylight hours",
+        "icon": "Sun"
+      },
+      {
+        "label": "Entry Fee",
+        "value": "Free",
+        "icon": "Ticket"
+      },
+      {
+        "label": "Environment",
+        "value": "Dense woodland",
+        "icon": "Trees"
+      },
+      {
+        "label": "Access",
+        "value": "Hiking / Jeep",
+        "icon": "CarFront"
+      }
+    ],
+    "facilities": [
+      "Walking trails",
+      "Bird watching",
+      "Camping zones",
+      "Nature walks"
+    ],
+    "warnings": [
+      "Stay on marked trails",
+      "Wildlife encounters possible"
+    ],
+    "plan": [
+      {
+        "label": "Best Time",
+        "value": "Summer and Autumn",
+        "icon": "CheckCircle2"
+      },
+      {
+        "label": "Drive",
+        "value": "Park at entrance",
+        "icon": "Car"
+      },
+      {
+        "label": "Gear",
+        "value": "Wear proper hiking shoes",
+        "icon": "TriangleAlert"
+      },
+      {
+        "label": "Supplies",
+        "value": "Carry water and snacks",
+        "icon": "Banknote"
+      }
+    ]
+  },
+  "River": {
+    "desc": "The majestic {name} flows fiercely through {location}, serving as the lifeblood of the region. Its cold, fast-moving waters are a mesmerizing sight against the backdrop of rugged terrain.\n\nVisitors enjoy sitting by the riverbanks, listening to the roaring water, and taking in the spectacular scenery. The river also supports local agriculture and provides opportunities for adventurous water activities in specific zones.",
+    "info": [
+      {
+        "label": "Open",
+        "value": "Always Open",
+        "icon": "Sun"
+      },
+      {
+        "label": "Entry Fee",
+        "value": "Free",
+        "icon": "Ticket"
+      },
+      {
+        "label": "Flow",
+        "value": "Fast moving",
+        "icon": "Waves"
+      },
+      {
+        "label": "Access",
+        "value": "Roadside / Trails",
+        "icon": "CarFront"
+      }
+    ],
+    "facilities": [
+      "Riverside seating",
+      "Food stalls nearby",
+      "Scenic viewpoints",
+      "Fishing in zones"
+    ],
+    "warnings": [
+      "Strong water currents",
+      "Do not swim in restricted areas"
+    ],
+    "plan": [
+      {
+        "label": "Best Time",
+        "value": "Late Summer",
+        "icon": "CheckCircle2"
+      },
+      {
+        "label": "Drive",
+        "value": "Accessible by regular car",
+        "icon": "Car"
+      },
+      {
+        "label": "Safety",
+        "value": "Stay away from edge",
+        "icon": "TriangleAlert"
+      },
+      {
+        "label": "Cash",
+        "value": "For local stalls",
+        "icon": "Banknote"
+      }
+    ]
+  },
+  "Cultural": {
+    "desc": "{name} is the cultural heart of {location}, famous for its unique heritage, traditions, and vibrant community life. The area offers a rare glimpse into customs that have been preserved for generations.\n\nVisitors are welcomed with warm hospitality and can witness traditional festivals, intricate handicrafts, and unique architectural styles. It is a profound educational experience that celebrates diversity and human history.",
+    "info": [
+      {
+        "label": "Open",
+        "value": "Daytime",
+        "icon": "Sun"
+      },
+      {
+        "label": "Entry Fee",
+        "value": "Varies by site",
+        "icon": "Ticket"
+      },
+      {
+        "label": "Heritage",
+        "value": "Indigenous",
+        "icon": "Star"
+      },
+      {
+        "label": "Access",
+        "value": "Local roads",
+        "icon": "CarFront"
+      }
+    ],
+    "facilities": [
+      "Cultural tours",
+      "Handicraft shops",
+      "Local museums",
+      "Homestays"
+    ],
+    "warnings": [
+      "Respect local customs",
+      "Ask before taking photos of people"
+    ],
+    "plan": [
+      {
+        "label": "Best Time",
+        "value": "During local festivals",
+        "icon": "CheckCircle2"
+      },
+      {
+        "label": "Drive",
+        "value": "Narrow village roads",
+        "icon": "Car"
+      },
+      {
+        "label": "Etiquette",
+        "value": "Dress modestly",
+        "icon": "TriangleAlert"
+      },
+      {
+        "label": "Cash",
+        "value": "Essential for local crafts",
+        "icon": "Banknote"
+      }
+    ]
+  },
+  "Mountain": {
+    "desc": "Towering over {location}, {name} is an awe-inspiring peak that attracts mountaineers and adventurers from around the world. Its snow-capped summit dominates the skyline and challenges those who dare to climb.\n\nEven for non-climbers, the base areas offer spectacular panoramic views and thrilling trekking routes. The sheer scale and rugged beauty of the mountain make it a defining feature of the region’s landscape.",
+    "info": [
+      {
+        "label": "Open",
+        "value": "Expedition seasons",
+        "icon": "Sun"
+      },
+      {
+        "label": "Entry Fee",
+        "value": "Permit required",
+        "icon": "Ticket"
+      },
+      {
+        "label": "Altitude",
+        "value": "Extreme high altitude",
+        "icon": "Mountain"
+      },
+      {
+        "label": "Access",
+        "value": "Multi-day trek",
+        "icon": "CarFront"
+      }
+    ],
+    "facilities": [
+      "Base camp areas",
+      "Porter services",
+      "Guided expeditions",
+      "Emergency protocols"
+    ],
+    "warnings": [
+      "Severe weather risks",
+      "High altitude sickness danger"
+    ],
+    "plan": [
+      {
+        "label": "Best Time",
+        "value": "July to August for climbing",
+        "icon": "CheckCircle2"
+      },
+      {
+        "label": "Transport",
+        "value": "Jeep to trail head",
+        "icon": "Car"
+      },
+      {
+        "label": "Gear",
+        "value": "Specialized equipment needed",
+        "icon": "TriangleAlert"
+      },
+      {
+        "label": "Permits",
+        "value": "Must be arranged in advance",
+        "icon": "Banknote"
+      }
+    ]
+  },
+  "Pass": {
+    "desc": "Situated high in {location}, {name} is a historic and dramatic mountain pass connecting distinct valleys. Known for its sweeping vistas and high-altitude polo grounds, it offers an unforgettable journey.\n\nTraveling through the pass is an adventure in itself, with winding roads and dramatic drops. It holds significant cultural importance and is home to annual high-altitude festivals that draw large crowds.",
+    "info": [
+      {
+        "label": "Open",
+        "value": "Summer months only",
+        "icon": "Sun"
+      },
+      {
+        "label": "Entry Fee",
+        "value": "Free",
+        "icon": "Ticket"
+      },
+      {
+        "label": "Elevation",
+        "value": "Over 3000m",
+        "icon": "Mountain"
+      },
+      {
+        "label": "Access",
+        "value": "4x4 Vehicles",
+        "icon": "CarFront"
+      }
+    ],
+    "facilities": [
+      "Scenic viewpoints",
+      "Seasonal campsites",
+      "Festival grounds",
+      "Basic food stalls"
+    ],
+    "warnings": [
+      "Closed in winter due to snow",
+      "Rough terrain"
+    ],
+    "plan": [
+      {
+        "label": "Best Time",
+        "value": "July (Festival season)",
+        "icon": "CheckCircle2"
+      },
+      {
+        "label": "Drive",
+        "value": "Experienced drivers only",
+        "icon": "Car"
+      },
+      {
+        "label": "Weather",
+        "value": "High winds and cold",
+        "icon": "TriangleAlert"
+      },
+      {
+        "label": "Cash",
+        "value": "No ATMs available",
+        "icon": "Banknote"
+      }
+    ]
+  },
+  "Market": {
+    "desc": "{name} is a bustling hub of commerce and culture in {location}. Often referred to as the 'Storytellers Bazaar', it has been a meeting place for merchants, travelers, and locals for centuries.\n\nThe narrow alleys are lined with shops selling spices, textiles, traditional jewelry, and local delicacies. The vibrant energy, historical architecture, and rich aromas make it a sensory delight and a photographer's paradise.",
+    "info": [
+      {
+        "label": "Open",
+        "value": "9:00 AM to 10:00 PM",
+        "icon": "Clock"
+      },
+      {
+        "label": "Entry Fee",
+        "value": "Free",
+        "icon": "Ticket"
+      },
+      {
+        "label": "Activity",
+        "value": "High traffic",
+        "icon": "Star"
+      },
+      {
+        "label": "Access",
+        "value": "Pedestrian / Rickshaw",
+        "icon": "CarFront"
+      }
+    ],
+    "facilities": [
+      "Endless shopping",
+      "Street food",
+      "Tea houses",
+      "Historical sites"
+    ],
+    "warnings": [
+      "Crowded areas - watch belongings",
+      "Traffic congestion"
+    ],
+    "plan": [
+      {
+        "label": "Best Time",
+        "value": "Late afternoon",
+        "icon": "CheckCircle2"
+      },
+      {
+        "label": "Transport",
+        "value": "Park outside and walk",
+        "icon": "Car"
+      },
+      {
+        "label": "Bargain",
+        "value": "Haggling is expected",
+        "icon": "TriangleAlert"
+      },
+      {
+        "label": "Cash",
+        "value": "Essential for purchases",
+        "icon": "Banknote"
+      }
+    ]
+  },
+  "Trek": {
+    "desc": "{name} in {location} is one of the most rewarding hiking trails in the region. Winding through dense pine forests and alpine meadows, it offers a perfect blend of physical challenge and natural beauty.\n\nUpon reaching the summit or viewpoint, hikers are rewarded with breathtaking panoramic vistas of the surrounding peaks. It is a popular day hike that attracts outdoor enthusiasts looking for fresh air and stunning scenery.",
+    "info": [
+      {
+        "label": "Open",
+        "value": "Daylight hours",
+        "icon": "Sun"
+      },
+      {
+        "label": "Entry Fee",
+        "value": "Free",
+        "icon": "Ticket"
+      },
+      {
+        "label": "Difficulty",
+        "value": "Moderate",
+        "icon": "Mountain"
+      },
+      {
+        "label": "Access",
+        "value": "On foot",
+        "icon": "CarFront"
+      }
+    ],
+    "facilities": [
+      "Marked trails",
+      "Rest spots",
+      "Horse riding options",
+      "Viewpoints"
+    ],
+    "warnings": [
+      "Can be slippery after rain",
+      "Wildlife in dense areas"
+    ],
+    "plan": [
+      {
+        "label": "Best Time",
+        "value": "Summer and early Autumn",
+        "icon": "CheckCircle2"
+      },
+      {
+        "label": "Drive",
+        "value": "Park at trail head",
+        "icon": "Car"
+      },
+      {
+        "label": "Gear",
+        "value": "Water and good boots",
+        "icon": "TriangleAlert"
+      },
+      {
+        "label": "Cash",
+        "value": "For horse rentals if needed",
+        "icon": "Banknote"
+      }
+    ]
+  },
+  "Viewpoint": {
+    "desc": "Perched high in {location}, {name} offers unparalleled panoramic views of the surrounding valleys and mountain ranges. It is the perfect spot for photography and quiet contemplation.\n\nEasily accessible, it draws visitors year-round who come to witness spectacular sunrises and sunsets. The crisp mountain air and sweeping landscapes make it a memorable highlight of any trip to the area.",
+    "info": [
+      {
+        "label": "Open",
+        "value": "Always Open",
+        "icon": "Sun"
+      },
+      {
+        "label": "Entry Fee",
+        "value": "Free",
+        "icon": "Ticket"
+      },
+      {
+        "label": "Vantage",
+        "value": "High elevation",
+        "icon": "Mountain"
+      },
+      {
+        "label": "Access",
+        "value": "Short walk",
+        "icon": "CarFront"
+      }
+    ],
+    "facilities": [
+      "Observation deck",
+      "Benches",
+      "Telescopes (seasonal)",
+      "Nearby cafes"
+    ],
+    "warnings": [
+      "Steep drops at the edge",
+      "Can be very windy"
+    ],
+    "plan": [
+      {
+        "label": "Best Time",
+        "value": "Sunrise or Sunset",
+        "icon": "CheckCircle2"
+      },
+      {
+        "label": "Drive",
+        "value": "Accessible by car",
+        "icon": "Car"
+      },
+      {
+        "label": "Weather",
+        "value": "Carry a windbreaker",
+        "icon": "TriangleAlert"
+      },
+      {
+        "label": "Cash",
+        "value": "For nearby cafes",
+        "icon": "Banknote"
+      }
+    ]
+  },
+  "Trail": {
+    "desc": "The historic {name} in {location} is a beautifully maintained walking path that winds through majestic forests and hillsides. It was originally built during the colonial era and retains its old-world charm.\n\nThe level path makes it an easy and relaxing walk, suitable for all ages. Along the way, visitors can enjoy the rich flora, playful monkeys, and occasional glimpses of the valley below through the tree canopy.",
+    "info": [
+      {
+        "label": "Open",
+        "value": "Daylight hours",
+        "icon": "Sun"
+      },
+      {
+        "label": "Entry Fee",
+        "value": "Nominal park fee",
+        "icon": "Ticket"
+      },
+      {
+        "label": "Length",
+        "value": "Approx 4km",
+        "icon": "Trees"
+      },
+      {
+        "label": "Access",
+        "value": "On foot",
+        "icon": "CarFront"
+      }
+    ],
+    "facilities": [
+      "Benches",
+      "Dustbins",
+      "Information boards",
+      "Shaded path"
+    ],
+    "warnings": [
+      "Do not feed the monkeys",
+      "Stay on the path"
+    ],
+    "plan": [
+      {
+        "label": "Best Time",
+        "value": "Morning or afternoon",
+        "icon": "CheckCircle2"
+      },
+      {
+        "label": "Drive",
+        "value": "Park at either end",
+        "icon": "Car"
+      },
+      {
+        "label": "Comfort",
+        "value": "Comfortable walking shoes",
+        "icon": "TriangleAlert"
+      },
+      {
+        "label": "Cash",
+        "value": "For entry ticket",
+        "icon": "Banknote"
+      }
+    ]
+  }
+}

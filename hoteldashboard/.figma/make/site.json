@@ -1,0 +1,10 @@
+{
+  "description": "Connects travelers with hotels, restaurants, and tourist spots in Khyber Pakhtunkhwa to discover, book, and manage trips with ease and trust.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
